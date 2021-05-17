@@ -4,17 +4,17 @@
 
 ### Technical skills:  
 <p align="center">
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/javascript.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/python.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/html5.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/css.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/react.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/redux.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/nodejs.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/express.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/mysql.svg" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/jasmine.png" width="30" height="30" align="center"/>
-  <img src="https://github.com/giancucinotta/giancucinotta/blob/master/img/skills/webpack.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/javascript.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/python.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/html5.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/css.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/react.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/redux.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/nodejs.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/express.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/mysql.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/jasmine.png" width="30" height="30" align="center"/>
+  <img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/skills/webpack.png" width="30" height="30" align="center"/>
 </p>  
 
 ---  
@@ -32,7 +32,7 @@
 ---  
 
 <p align="center">
-    <img align="center" alt="Javier Balonga GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giancucinotta&layout=compact" />
+    <img align="center" alt="Gianfranco Cucinotta GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giancucinotta&layout=compact" />
 </p>
 
 ---
