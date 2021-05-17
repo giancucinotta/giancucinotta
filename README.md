@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+### I'm Gianfranco, a Full Stack Web Developer born an raised in Argentina. I'm 28 years old and looking forward to meet you!
 
 ---
 
@@ -30,9 +31,3 @@
 </p>
 
 ---  
-
-<p align="center">
-    <img align="center" alt="Gianfranco Cucinotta GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giancucinotta&layout=compact" />
-</p>
-
----
