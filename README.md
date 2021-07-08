@@ -41,7 +41,7 @@ You can search for your favorite Pokemon and learn more about them! Also you can
 
 Single page app:
 
-[<img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/PokePI/React%20App%20-%20Google%20Chrome%202021-07-08%2014-07-18.gif"/>](https://github.com/giancucinotta/PI-Pokemon-FT13) 
+[<img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/PokePI/React%20App%20-%20Google%20Chrome%202021-07-08%2014-07-18.gif"/>](https://github.com/giancucinotta/PokePI) 
 
 Filters in the app:
 
