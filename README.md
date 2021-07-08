@@ -31,3 +31,27 @@
 </p>
 
 ---  
+
+## Projects 
+
+---
+### PokePI
+#### Full Stack Individual Project (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS) 
+You can search for your favorite Pokemon and learn more about them! Also you can create new ones, including an image, stats and types. 
+
+Landing page:
+
+[<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/Foodfie2.gif"/>](https://github.com/sofiarocchietti/Foodfie) 
+
+#### Repository link [here](https://github.com/sofiarocchietti/Foodfie)
+
+---
+
+### SOFLIX
+#### Front-End Project (React, CSS) 
+This is a clone from another app you already know 😉. You can watch your favorite movies and TV Shows trailers!
+
+[<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/SOFLIX.gif"/>](https://github.com/sofiarocchietti/soflix) 
+
+#### Repository link [here](https://github.com/sofiarocchietti/soflix)
+#### Deployed project [here](https://soflix.vercel.app/home)
