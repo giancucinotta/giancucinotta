@@ -39,19 +39,17 @@
 #### Full Stack Individual Project (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS) 
 You can search for your favorite Pokemon and learn more about them! Also you can create new ones, including an image, stats and types. 
 
-Landing page:
+Single page app:
 
-[<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/Foodfie2.gif"/>](https://github.com/sofiarocchietti/Foodfie) 
+[<img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/PokePI/React%20App%20-%20Google%20Chrome%202021-07-08%2014-07-18.gif"/>](https://github.com/giancucinotta/PI-Pokemon-FT13) 
 
-#### Repository link [here](https://github.com/sofiarocchietti/Foodfie)
+Filters in the app:
+
+[<img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/PokePI/2021-07-08%20(2).png"/>](https://github.com/giancucinotta/PI-Pokemon-FT13)
+
+[<img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/PokePI/2021-07-08%20(4).png"/>](https://github.com/giancucinotta/PI-Pokemon-FT13)
+
+
+#### Repository link [here](https://github.com/giancucinotta/PI-Pokemon-FT13)
 
 ---
-
-### SOFLIX
-#### Front-End Project (React, CSS) 
-This is a clone from another app you already know 😉. You can watch your favorite movies and TV Shows trailers!
-
-[<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/SOFLIX.gif"/>](https://github.com/sofiarocchietti/soflix) 
-
-#### Repository link [here](https://github.com/sofiarocchietti/soflix)
-#### Deployed project [here](https://soflix.vercel.app/home)
