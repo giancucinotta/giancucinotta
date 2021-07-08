@@ -45,9 +45,9 @@ Single page app:
 
 Filters in the app:
 
-[<img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/PokePI/2021-07-08%20(2).png"/>](https://github.com/giancucinotta/PI-Pokemon-FT13)
+[<img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/PokePI/SS1.png"/>](https://github.com/giancucinotta/PI-Pokemon-FT13)
 
-[<img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/PokePI/2021-07-08%20(4).png"/>](https://github.com/giancucinotta/PI-Pokemon-FT13)
+[<img src="https://github.com/giancucinotta/giancucinotta/blob/main/img/PokePI/SS2.png"/>](https://github.com/giancucinotta/PI-Pokemon-FT13)
 
 
 #### Repository link [here](https://github.com/giancucinotta/PI-Pokemon-FT13)
