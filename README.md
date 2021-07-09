@@ -28,9 +28,6 @@
     <a href="https://www.linkedin.com/in/gianfranco-cucinotta/">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5492213642760">
-      <img src='' alt='whatsapp' height='60'>
-    </a>
 </p>
 
 ---  
