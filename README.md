@@ -34,7 +34,7 @@
 
 ## Projects 
 
----
+
 ### PokePI
 #### Full Stack Individual Project (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS) 
 You can search for your favorite Pokemon and learn more about them! Also you can create new ones, including an image, stats and types. 
