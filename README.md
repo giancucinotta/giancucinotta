@@ -1,5 +1,5 @@
 ### Hi there! 👋
-### I'm Gianfranco, a Full Stack Web Developer born an raised in Argentina. I'm 28 years old and looking forward to meet you!
+### I'm Gianfranco, a DevOps engineer and Full Stack Web Developer born an raised in Argentina. I'm 29 years old and looking forward to meet you!
 
 ---
 
